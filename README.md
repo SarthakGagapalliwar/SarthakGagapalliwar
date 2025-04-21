@@ -27,16 +27,16 @@
 aditya@github:~$ ./welcome.sh
 
 🎓 Pursuing a Bachelor's in Computer Science
-🌱 Currently diving into DevOps and GoLang
+🌱 Currently diving into DevOps and NextJs
 💼 Specialize in building robust and scalable server-side applications.
-🌟 Proficient in: Java, TypeScript
+🌟 Proficient in: CPP, TypeScript
 🔎 Can do a bit of Native Android Development
 ✨ Hobbies: Reading webnovels and watching anime
 👨‍💻 Grinding LeetCode 24*7
 🥅 2024 Goals: Contribute more to Open Source projects.
 👾 Love to tinker with Custom ROMS
 🎯 Preping for GSOC 2025
-📬 How to reach me: dashing4149@gmail.com
+📬 How to reach me: sarthakgagapalliwar07.com
 ⚡ Fun fact: In australia there are 48 million kangaroos and in Uruguay there are 3,457,380 inhabitants. So if the kangaroos decide to invade Uruguay, each Uruguayan will have to fight 14 kangaroos.
 
 ```

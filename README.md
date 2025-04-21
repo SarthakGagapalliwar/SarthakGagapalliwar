@@ -87,8 +87,8 @@ aditya@github:~$ ./welcome.sh
 <!-- Github Stat -->
 
 <div style="display: flex; align-items="center"/>
-  <img width="50%" height="auto" src="./github-metrics.svg" alt="GitHub Metrics" />
-  <img width="47% height="auto" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SmoggyOwO&langs_count=6&count_private=true&layout=compact&theme=transparent&hide_rank=false&border_radius=10&hide_border=true&text_color=a3a3a3" alt="Languages Graph" />
+<!--   <img width="50%" height="auto" src="./github-metrics.svg" alt="GitHub Metrics" /> -->
+  <img width="47% height="auto" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SarthakGagapalliwar&langs_count=6&count_private=true&layout=compact&theme=transparent&hide_rank=false&border_radius=10&hide_border=true&text_color=a3a3a3" alt="Languages Graph" />
 </div>
 
 <br/>
@@ -130,9 +130,9 @@ P.S: Top languages is only a metric of the languages my public code consists of 
         <a href="https://ko-fi.com/"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
         <img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=31if564w5fubh3m6t45b5dd5hcae&count=1">
         <br/>
-        <a href="https://visitcount.itsvg.in">
+<!--         <a href="https://visitcount.itsvg.in">
            <img src="https://visitcount.itsvg.in/api?id=Smoggyowo&label=Profile%20Views&color=10&icon=3&pretty=false" />
-        </a>
+        </a> -->
     </div>
 </div>
 

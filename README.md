@@ -141,20 +141,22 @@ P.S: Top languages is only a metric of the languages my public code consists of 
 
 <!-- Social icons section -->
 
-<div style="display: flex;">
-    <img align="left" src="https://slackmojis.com/emojis/7248-baby-yoda-soup/download" width="60" style>
-    <div style="display: flex; align-items: center;">
-        <a href="https://https://www.linkedin.com/in/sarthak-gagapalliwar/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-        &#8287;&#8287;&#8287;
-        &#8287;&#8287;&#8287;
-        <a href="https://ko-fi.com/"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-        <img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=31if564w5fubh3m6t45b5dd5hcae&count=1">
-        <br/>
-<!--         <a href="https://visitcount.itsvg.in">
-           <img src="https://visitcount.itsvg.in/api?id=Smoggyowo&label=Profile%20Views&color=10&icon=3&pretty=false" />
-        </a> -->
-    </div>
+<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+  <img align="left" src="https://slackmojis.com/emojis/7248-baby-yoda-soup/download" width="60" alt="Baby Yoda" />
+
+  <div style="display: flex; align-items: center; gap: 16px;">
+    <a href="https://www.linkedin.com/in/sarthak-gagapalliwar/" target="_blank">
+      <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png" />
+    </a>
+
+    <a href="https://ko-fi.com/" target="_blank">
+      <img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png" />
+    </a>
+  </div>
+
+  <img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=31if564w5fubh3m6t45b5dd5hcae&count=1" alt="Spotify Recently Played" />
 </div>
+
 
 <!-- <div align="center" style="display: flex;">
   <img src="https://leetcard.jacoblin.cool/DashingAdi?theme=dark&font=Roboto&ext=contest&border=0&radius=20&animations=true">

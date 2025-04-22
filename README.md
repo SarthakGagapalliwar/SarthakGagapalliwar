@@ -49,7 +49,7 @@ aditya@github:~$ ./welcome.sh
   <div style="display: flex; flex-direction: column;">
     <br/>
     <p align="center" style="display: flex; gap: 9px">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg" alt="Java" height="25" />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/cpp2.svg" alt="Java" height="25" />
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg" alt="JavaScript" height="25" />
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg" alt="TypeScript" height="25" />
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go2.svg" alt="Go" height="25" />

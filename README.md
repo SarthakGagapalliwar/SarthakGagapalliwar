@@ -45,40 +45,61 @@ aditya@github:~$ ./welcome.sh
 
 <!-- Technologies -->
 
+
 <div style="display: flex;">
   <div style="display: flex; flex-direction: column;">
-    <br/>
+    <!-- <b style="display: inline; font-size: 20px; margin-bottom: 0px;">Languages</b> -->
     <p align="center" style="display: flex; gap: 9px">
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg" alt="Python" height="25" />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c2.svg" alt="C" height="25" />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg" alt="C++" height="25" />
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg" alt="Java" height="25" />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" alt="HTML5" height="25" />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css2.svg" alt="CSS3" height="25" />
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg" alt="JavaScript" height="25" />
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript2.svg" alt="TypeScript" height="25" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go2.svg" alt="Go" height="25" />
     </p>
+    <!-- <b style="display: inline; font-size: 20px; margin-bottom: 0px;">Libraries</b> -->
     <p align="center" style="display: flex; gap: 9px">
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react2.svg" alt="React" height="25" />
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs2.svg" alt="NextJs" height="25" />
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs2.svg" alt="NodeJS" height="25" />
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express2.svg" alt="Express" height="25" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Prisma/prisma2.svg" alt="Prisma" height="25" />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg" alt="Figma" height="25" />
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg" alt="TailwindCSS" height="25" />
     </p>
+    <!-- <b style="display: inline; font-size: 20px; margin-bottom: 0px;">Tools</b> -->
+    <p align="center" style="display: flex; gap: 9px">
+      <!-- Version Control -->
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg" alt="Git" height="25" />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt="GitHub" height="25" />
+      <!-- API Testing & Development -->
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman2.svg" alt="Postman" height="25" />
+      <!-- Deployment & Hosting -->
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Cloudflare/cloudflare2.svg" alt="Cloudflare" height="25" />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs2.svg" alt="Vite" height="25" />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel2.svg" alt="Vercel" height="25" />
+      <!-- Containerization & Cloud Services -->
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker2.svg" alt="Docker" height="25" />
+      <!-- Database & Authentication -->
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Supabase/supabase2.svg" alt="Supabase" height="25" />
+    </p>
+        <!-- <b style="display: inline; font-size: 20px; margin-bottom: 0px;">Databases</b> -->
     <p align="center" style="display: flex; gap: 9px">
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb2.svg" alt="MongoDB" height="25" />
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg" alt="PostgreSQL" height="25" />
     </p>
+    <!-- <b style="display: inline; font-size: 20px; margin-bottom: 0px;">IDEs / Text Editors</b> -->
     <p align="center" style="display: flex; gap: 9px">
-      <!-- Version Control -->
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git2.svg" alt="Git" height="25" />
-      <!-- API Testing & Development -->
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman2.svg" alt="Postman" height="25" />
-      <!-- Deployment & Hosting -->
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Cloudflare/cloudflare2.svg" alt="Cloudflare" height="25" />
-      <!-- Containerization & Cloud Services -->
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker2.svg" alt="Docker" height="25" />
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AWS/aws2.svg" alt="AWS" height="25" />
-      <!-- Database & Authentication -->
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Supabase/supabase2.svg" alt="Supabase" height="25" />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg" alt="VS Code" height="25" />
     </p>
+    <!-- <b style="display: inline; font-size: 20px; margin-bottom: 0px;">Workspace</b> -->
+    <p align="center" style="display: flex; gap: 9px; flex-wrap: wrap;">
+      <!-- <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows2.svg" alt="Windows 11" height="25" /> -->
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg" alt="Linux" height="25" />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu2.svg" alt="Ubuntu" height="25" />
+    </p>
+
   </div>
 </div>
 

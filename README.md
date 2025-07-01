@@ -23,7 +23,7 @@
     </div>
   
 ```markdown
-aditya@github:~$ ./welcome.sh
+SarthakGagapalliwar@github:~$ ./welcome.sh
 
 🎓 Pursuing a Bachelor's in Computer Science
 🌱 Currently diving into DevOps and NextJs

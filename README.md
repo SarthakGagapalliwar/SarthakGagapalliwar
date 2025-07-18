@@ -160,6 +160,17 @@ P.S: Top languages is only a metric of the languages my public code consists of 
     </a>
   </div>
 
+
+
+
+
+  <div align="center" style="display: flex; gap: 30px; align-items: center">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=suphalbochkar&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="105" alt="Status Graph"  /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=SarthakGagapalliwar&hide_title=true&hide_border=false&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="105" alt="Status Graph" />
+  <img src="https://streak-stats.demolab.com?user=SarthakGagapalliwar&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="105" alt="Streak Graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SarthakGagapalliwar&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&order=2&custom_title=Languages" height="105" alt="Languages Graph"  />
+</div>
+
   <img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=31if564w5fubh3m6t45b5dd5hcae&count=1" alt="Spotify Recently Played" />
 </div>
 

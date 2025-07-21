@@ -34,7 +34,7 @@ SarthakGagapalliwar@github:~$ ./welcome.sh
 👨‍💻 Grinding LeetCode 24*7 && GeeksforGeeks
 🥅 2024 Goals: Contribute more to Open Source projects.
 👾 Love to tinker with Custom ROMS
-📬 How to reach me: sarthakgagapalliwar07.com
+📬 How to reach me: sarthakgagapalliwar07@gmail.com
 ⚡ Fun fact: In australia there are 48 million kangaroos and in Uruguay there are 3,457,380 inhabitants. So if the kangaroos decide to invade Uruguay, each Uruguayan will have to fight 14 kangaroos.
 
 ```

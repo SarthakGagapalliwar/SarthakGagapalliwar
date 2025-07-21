@@ -31,7 +31,7 @@ SarthakGagapalliwar@github:~$ ./welcome.sh
 🌟 Proficient in: CPP, TypeScript
 🔎 Can do a bit of Native Android Development
 ✨ Hobbies: Reading webnovels and watching anime
-👨‍💻 Grinding LeetCode 24*7
+👨‍💻 Grinding LeetCode 24*7 && GeeksforGeeks
 🥅 2024 Goals: Contribute more to Open Source projects.
 👾 Love to tinker with Custom ROMS
 📬 How to reach me: sarthakgagapalliwar07.com

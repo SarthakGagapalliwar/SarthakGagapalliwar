@@ -144,9 +144,6 @@ P.S: Top languages is only a metric of the languages my public code consists of 
     <a href="https://www.linkedin.com/in/sarthak-gagapalliwar/" target="_blank">
       <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png" />
     </a>
-    <a href="https://ko-fi.com/" target="_blank">
-      <img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png" />
-    </a>
   </div>
 
 

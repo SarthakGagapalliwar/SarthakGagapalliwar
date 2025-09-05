@@ -65,6 +65,7 @@ SarthakGagapalliwar@github:~$ ./welcome.sh
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express2.svg" alt="Express" height="25" />
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg" alt="Figma" height="25" />
       <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg" alt="TailwindCSS" height="25" />
+      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Redux/redux2.svg" alt="Redux" height="25" />
     </p>
     <!-- <b style="display: inline; font-size: 20px; margin-bottom: 0px;">Tools</b> -->
     <p align="center" style="display: flex; gap: 9px">

@@ -28,7 +28,7 @@ SarthakGagapalliwar@github:~$ ./welcome.sh
 🎓 Pursuing a Bachelor's in Computer Science
 🌱 Currently diving into DevOps and NextJs
 💼 Specialize in building robust and scalable server-side applications.
-🌟 Proficient in: CPP, TypeScript
+🌟 Proficient in: CPP, TypeScript, JavaScript
 🔎 Can do a bit of Native Android Development
 ✨ Hobbies: Reading webnovels and watching anime
 👨‍💻 Grinding LeetCode 24*7 && GeeksforGeeks

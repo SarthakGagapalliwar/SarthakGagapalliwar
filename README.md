@@ -19,7 +19,7 @@
 
 <div class="about-main" style="display: flex;">
     <div align="left" style="display: flex; margin: 0px 70px 0px 15px; box-shadow: 10px 10px 13px -3px rgba(255,255,255,0.5);" class="about-left">
-        <img align="left" src="https://github.com/DashingAdi/DashingAdi/blob/main/assets/camp.gif" height="280" width="240">
+        <img align="left" src="https://github.com/DashingAdi/DashingAdi/blob/main/assets/camp.gif" height="260" width="240">
     </div>
   
 ```markdown
@@ -30,8 +30,7 @@ SarthakGagapalliwar@github:~$ ./welcome.sh
 💼 Specialize in building robust and scalable server-side applications.
 🌟 Proficient in: CPP, TypeScript, JavaScript
 🔎 Can do a bit of Native Android Development
-✨ Hobbies: Reading webnovels and watching anime
-🎱 Love to play 8 ball pool
+✨ Hobbies:  Love to play 8 ball pool and watching anime
 👨‍💻 Grinding LeetCode 24*7 && GeeksforGeeks
 🥅 2025 Goals: Contribute more to Open Source projects.
 👾 Love to tinker with Custom ROMS

@@ -32,7 +32,7 @@ SarthakGagapalliwar@github:~$ ./welcome.sh
 🔎 Can do a bit of Native Android Development
 ✨ Hobbies:  Love to play 8 ball pool and watching anime
 👨‍💻 Grinding LeetCode 24*7 && GeeksforGeeks
-🥅 2025 Goals: Contribute more to Open Source projects.
+🥅 2026 Goals: Contribute more to Open Source projects.
 👾 Love to tinker with Custom ROMS
 📬 How to reach me: sarthakgagapalliwar07@gmail.com
 ⚡ Fun fact: 🔄 To understand recursion, you first need to understand recursion.
